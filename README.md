@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,Jvascript, CSS, React**
+- 💬 Ask me about **HTML, Jvascript, CSS, React**
 
 - 📫 How to reach me **arkelly.perez.alayo@gmail.com**
 
