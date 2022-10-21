@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, mi nombre es Arkelly Perez</h1>
+<h1 align="center">Hi 👋, I am Arkelly Perez</h1>
 <h3 align="center">Front-End Developer</h3>
 
 - 🌱 I’m currently learning **React**
